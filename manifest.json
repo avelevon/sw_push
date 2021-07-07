@@ -1,0 +1,9 @@
+{
+    "short_name": "Восход 56",
+    "name": "Умный дом на Восход 56",
+    "gcm_sender_id": "955473076265",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
